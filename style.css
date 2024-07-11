@@ -15,3 +15,9 @@ img {
     width: 200px;
     height: 200px;
 }
+
+.homework {
+    font-size: 24px;
+    font-style: oblique;
+    text-shadow: 2px 2px 2px green;
+}
